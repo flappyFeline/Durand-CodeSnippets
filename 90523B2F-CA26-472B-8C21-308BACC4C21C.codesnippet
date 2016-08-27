@@ -6,7 +6,7 @@
 	<string>xassign</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic,assign) &lt;#type#&gt; &lt;#proName#&gt;;</string>
