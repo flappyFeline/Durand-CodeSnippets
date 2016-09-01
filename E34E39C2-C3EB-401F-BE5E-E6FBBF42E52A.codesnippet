@@ -3,22 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xalloc</string>
+	<string>xwarnselector</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[[&lt;#className#&gt; alloc] init];</string>
+	<string>#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wundeclared-selector"
+    &lt;#code#&gt;
+#pragma clang diagnostic pop</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>57A91882-44AE-4534-838D-926F30974F81</string>
+	<string>E34E39C2-C3EB-401F-BE5E-E6FBBF42E52A</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>取消方法警告宏</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>FunctionCreater-xalloc</string>
+	<string>Ignored undeclared selector warning</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
