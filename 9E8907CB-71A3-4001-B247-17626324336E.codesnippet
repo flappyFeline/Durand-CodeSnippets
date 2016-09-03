@@ -3,24 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xwarnselector</string>
+	<string>xvoidmethoddeclare</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wundeclared-selector"
-    &lt;#code#&gt;
-#pragma clang diagnostic pop</string>
+	<string>- (void)&lt;#methodName#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E34E39C2-C3EB-401F-BE5E-E6FBBF42E52A</string>
+	<string>9E8907CB-71A3-4001-B247-17626324336E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>取消方法警告宏</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Ignored undeclared selector warning</string>
+	<string>void method declare</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
