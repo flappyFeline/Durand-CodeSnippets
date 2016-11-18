@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>xInLineCreater</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>&lt;#obj#&gt; = ({
+        &lt;#obj#&gt; = [&lt;#Class#&gt; &lt;#new#&gt;];
+        &lt;#obj#&gt;;
+    });</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DBF4B921-9D84-4BB9-BBBB-E81F46A6AE8B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>C Type Inline Creater</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>内联复合表达式创建对象</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
