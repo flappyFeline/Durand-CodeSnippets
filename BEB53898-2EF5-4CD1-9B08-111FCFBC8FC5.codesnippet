@@ -14,6 +14,8 @@
 	<string>BEB53898-2EF5-4CD1-9B08-111FCFBC8FC5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>hh</string>
 	<key>IDECodeSnippetTitle</key>

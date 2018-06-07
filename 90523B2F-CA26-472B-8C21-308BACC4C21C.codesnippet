@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic,assign) &lt;#type#&gt; &lt;#proName#&gt;;</string>
+	<string>@property (nonatomic, assign) &lt;#type#&gt; &lt;#proName#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>90523B2F-CA26-472B-8C21-308BACC4C21C</string>
 	<key>IDECodeSnippetLanguage</key>

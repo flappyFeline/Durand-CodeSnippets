@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xwarnselector</string>
+	<string>xignoredwarnselector</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -16,7 +16,7 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E34E39C2-C3EB-401F-BE5E-E6FBBF42E52A</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>取消方法警告宏</string>
 	<key>IDECodeSnippetTitle</key>
